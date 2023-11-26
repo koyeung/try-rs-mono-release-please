@@ -17,5 +17,5 @@ jobs:
         with:
           command: manifest
           release-type: rust
-          bump-minor-pre-major: true
+          # bump-minor-pre-major: true
           monorepo-tags: true
