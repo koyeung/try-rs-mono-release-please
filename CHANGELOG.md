@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.3.0...try-rs-mono-release-please-v0.4.0) (2023-11-26)
+
+
+### Features
+
+* **crate2:** add function multiply ([5486395](https://github.com/koyeung/try-rs-mono-release-please/commit/548639574cb503e3e06ce5040d1359b5e6b3a9c0))
+
 ## [0.3.0](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.2.0...try-rs-mono-release-please-v0.3.0) (2023-11-26)
 
 
