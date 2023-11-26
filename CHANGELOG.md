@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.4.0](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.3.0...try-rs-mono-release-please-v0.4.0) (2023-11-26)
+
+
+### Features
+
+* add div ([6e93a03](https://github.com/koyeung/try-rs-mono-release-please/commit/6e93a0370db09f70c041547ecf5c7c874514b0a4))
+* **crate1:** add div ([160d204](https://github.com/koyeung/try-rs-mono-release-please/commit/160d204d6c1d9f9ff2b9f7d57bce41f071b1e8b1))
+* **crate2:** add div ([904e992](https://github.com/koyeung/try-rs-mono-release-please/commit/904e992193247e2c8a17d5bd1d38251dd9ce6666))
+* **crate2:** add function multiply ([5486395](https://github.com/koyeung/try-rs-mono-release-please/commit/548639574cb503e3e06ce5040d1359b5e6b3a9c0))
+
+
+### Bug Fixes
+
+* **crate1:** fix 1 ([fabbe3f](https://github.com/koyeung/try-rs-mono-release-please/commit/fabbe3f8e26d4c9e9d7482ce0183369ef24c4ea8))
+* **crate1:** fix 2 ([a517676](https://github.com/koyeung/try-rs-mono-release-please/commit/a517676c6332924ad240e1c849508e834884a4ee))
+* **crate2:** fix 2 ([62dbe22](https://github.com/koyeung/try-rs-mono-release-please/commit/62dbe220028c7afb3545dd4add55d6d44da0df95))
+* **crate2:** fix 3 ([29d1cf6](https://github.com/koyeung/try-rs-mono-release-please/commit/29d1cf67e118aefd5856f755c15b818b75db0f31))
+* fix 1 ([a937615](https://github.com/koyeung/try-rs-mono-release-please/commit/a937615673e892bc00d1b8c6891994d7ee1c2502))
+
 ## [0.3.0](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.2.0...try-rs-mono-release-please-v0.3.0) (2023-11-26)
 
 
