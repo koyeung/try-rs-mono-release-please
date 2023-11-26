@@ -9,7 +9,8 @@ rust-version.workspace = true
 
 [workspace]
 members = [
-  "packages/*",
+  "packages/crate1",
+  "packages/crate2",
 ]
 resolver = "2"
 
