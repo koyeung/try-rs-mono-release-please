@@ -6,6 +6,10 @@ pub fn multiply(left: usize, right: usize) -> usize {
     left * right
 }
 
+pub fn div(left: f32, right: f32) -> f32 {
+    left / right
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
