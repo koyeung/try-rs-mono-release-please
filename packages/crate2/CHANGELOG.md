@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/koyeung/try-rs-mono-release-please/compare/crate2-v0.1.0...crate2-v0.1.1) (2023-11-26)
+
+
+### Bug Fixes
+
+* **crate2:** fix 3 ([29d1cf6](https://github.com/koyeung/try-rs-mono-release-please/commit/29d1cf67e118aefd5856f755c15b818b75db0f31))
+
 ## 0.1.0 (2023-11-26)
 
 
