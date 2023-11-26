@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.5.0...try-rs-mono-release-please-v0.5.1) (2023-11-26)
+
+
+### Bug Fixes
+
+* versions in manifest file ([70b0463](https://github.com/koyeung/try-rs-mono-release-please/commit/70b0463d1a1a7c09cc0c97474b344bb37f3d7ba2))
+
 ## [0.5.0](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.4.0...try-rs-mono-release-please-v0.5.0) (2023-11-26)
 
 
