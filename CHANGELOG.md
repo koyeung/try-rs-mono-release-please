@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.6.0](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.5.0...try-rs-mono-release-please-v0.6.0) (2023-11-26)
+
+
+### Features
+
+* add div ([6e93a03](https://github.com/koyeung/try-rs-mono-release-please/commit/6e93a0370db09f70c041547ecf5c7c874514b0a4))
+
+
+### Bug Fixes
+
+* **crate1:** fix 1 ([fabbe3f](https://github.com/koyeung/try-rs-mono-release-please/commit/fabbe3f8e26d4c9e9d7482ce0183369ef24c4ea8))
+* **crate2:** fix 2 ([62dbe22](https://github.com/koyeung/try-rs-mono-release-please/commit/62dbe220028c7afb3545dd4add55d6d44da0df95))
+
 ## [0.5.0](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.4.0...try-rs-mono-release-please-v0.5.0) (2023-11-26)
 
 
