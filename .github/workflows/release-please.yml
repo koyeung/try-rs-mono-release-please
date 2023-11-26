@@ -19,5 +19,4 @@ jobs:
           release-type: rust
           bump-minor-pre-major: true
           monorepo-tags: true
-          plugins:
-            - cargo-workspace
+          plugins: cargo-workspace
