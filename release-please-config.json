@@ -3,14 +3,20 @@
     "cargo-workspace"
   ],
   "release-type": "rust",
+  "pull-request-title-pattern": "chore${scope}: release${component} ${version}",
+  "separate-pull-requests": true,
   "packages": {
-    "packages/crate1": {},
+    "packages/crate1": {
+      "releaseType": "rust",
+      "packageName": "crate1"
+    },
     "packages/crate2": {
       "releaseType": "rust",
       "packageName": "crate2"
     },
     ".": {
-      "releaseType": "rust"
+      "releaseType": "rust",
+      "packageName": "try-rs-mono-release-please"
     }
  }
 }
