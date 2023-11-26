@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.2](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.5.1...try-rs-mono-release-please-v0.5.2) (2023-11-26)
+
+
+### Bug Fixes
+
+* **crate1:** fix 4 ([dfa1338](https://github.com/koyeung/try-rs-mono-release-please/commit/dfa13384cd0f2d005a76a312fb3ecae364ecd5bf))
+
 ## [0.5.1](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.5.0...try-rs-mono-release-please-v0.5.1) (2023-11-26)
 
 
