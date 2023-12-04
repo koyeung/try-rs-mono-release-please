@@ -7,7 +7,7 @@ pub fn multiply(left: usize, right: usize) -> usize {
 }
 
 pub fn div(left: f32, right: f32) -> f32 {
-    left / right // fix 4
+    left / right // fix 5
 }
 
 #[cfg(test)]
