@@ -7,11 +7,7 @@
   ],
   "packages": {
     ".": {},
-    "packages/crate1": {
-      "release-as": "0.7.0"
-    },
-    "packages/crate2": {
-      "release-as": "0.7.0"
-    }
+    "packages/crate1": {},
+    "packages/crate2": {}
  }
 }
