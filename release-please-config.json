@@ -1,23 +1,13 @@
 {
+  "bump-minor-pre-major": true,
+  "release-type": "rust",
+  "include-component-in-tag": true,
   "plugins": [
     "cargo-workspace"
   ],
-  "release-type": "rust",
   "packages": {
-    "packages/crate1": {
-      "releaseType": "rust",
-      "packageName": "crate1",
-      "bump-minor-pre-major": true
-    },
-    "packages/crate2": {
-      "releaseType": "rust",
-      "packageName": "crate2",
-      "bump-minor-pre-major": true
-    },
-    ".": {
-      "releaseType": "rust",
-      "packageName": "try-rs-mono-release-please",
-      "bump-minor-pre-major": true
-    }
+    ".": {},
+    "packages/crate1": {},
+    "packages/crate2": {}
  }
 }
