@@ -3,10 +3,7 @@
   "release-type": "rust",
   "include-component-in-tag": true,
   "plugins": [
-    {
-      "type": "cargo-workspace",
-      "update-all-packages": true
-    }
+    "cargo-workspace"
   ],
   "packages": {
     ".": {},
