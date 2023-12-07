@@ -7,7 +7,7 @@
   ],
   "packages": {
     ".": {},
-    "packages/crate1": {},
-    "packages/crate2": {}
+    "crates/crate1": {},
+    "crates/crate2": {}
  }
 }
