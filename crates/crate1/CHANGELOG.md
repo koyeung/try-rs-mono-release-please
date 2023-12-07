@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/koyeung/try-rs-mono-release-please/compare/crate1-v0.7.0...crate1-v0.8.0) (2023-12-07)
+
+
+### Features
+
+* rename directory packages to crates ([75704df](https://github.com/koyeung/try-rs-mono-release-please/commit/75704df97ab157a867022291c590a369a7600115))
+
 ## [0.7.0](https://github.com/koyeung/try-rs-mono-release-please/compare/crate1-v0.6.0...crate1-v0.7.0) (2023-12-04)
 
 
