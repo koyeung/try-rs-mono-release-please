@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.5.6...try-rs-mono-release-please-v0.6.0) (2023-12-07)
+
+
+### Features
+
+* rename directory packages to crates ([75704df](https://github.com/koyeung/try-rs-mono-release-please/commit/75704df97ab157a867022291c590a369a7600115))
+
 ## [0.5.6](https://github.com/koyeung/try-rs-mono-release-please/compare/try-rs-mono-release-please-v0.5.5...try-rs-mono-release-please-v0.5.6) (2023-12-04)
 
 
