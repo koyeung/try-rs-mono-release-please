@@ -6,7 +6,6 @@
     "cargo-workspace"
   ],
   "packages": {
-    ".": {},
     "crates/crate1": {},
     "crates/crate2": {}
  }
